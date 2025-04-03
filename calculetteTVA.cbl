@@ -7,7 +7,7 @@
        data division.
        working-storage section.
            01 price          pic 9(7)v99.
-           01 priceHT       pic 9(5)v99.   *> Changer le format ici
+           01 priceHT       pic 9(5)v99.   
            01 tva-type      pic 9.
            01 tva-rate      pic 9(2)v99.
 
